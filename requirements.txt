@@ -1,0 +1,13 @@
+langchain>=1.0,<2.0
+langchain-groq>=0.3
+langchain-community>=0.3
+langchain-text-splitters>=0.3
+langchain-huggingface>=0.1
+langchain-qdrant>=1.0
+langgraph>=1.0
+qdrant-client>=1.15
+sentence-transformers>=3.0
+pypdf>=5.0
+python-dotenv>=1.0
+streamlit>=1.40
+pydantic>=2.0
